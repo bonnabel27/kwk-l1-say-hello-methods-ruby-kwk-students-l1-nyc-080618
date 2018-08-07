@@ -1,6 +1,6 @@
 # Build your say_hello method here
 
-say_hello("Sika")
+say_hello("")
 
 end
 
